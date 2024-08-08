@@ -1,2 +1,1 @@
-# 🔗 Links
->[](https://readme.so/pt)
+# About me
