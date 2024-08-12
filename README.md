@@ -4,8 +4,7 @@
 
 🧠 Estou aprendendo POO, Java, Redes
 
-🤝 Contate pelo 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/matheos-kusakabe-44b511266/))
+🤝 Contato pelo <br> [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/matheos-kusakabe-44b511266/))
 
 🌐 Procuro ajuda com Boas Praticas, Infraestrutura, DSA.
 
