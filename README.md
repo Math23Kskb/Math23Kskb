@@ -1,4 +1,4 @@
-## 🚀 Sou Matheos Kusakabe (Math23Kskb)
+## 🚀 Sou Matheos Chiyuki Kusakabe (Math23Kskb)
 
 👩‍💻 Sou estudante de Engenharia de Software.
 
