@@ -9,7 +9,13 @@
 🌐 Procuro ajuda com Boas Praticas, Infraestrutura, DSA.
 
 ## 📈 Estatisticas GitHub & LeetCode
-![math23kskb's Stats](https://github-readme-stats.vercel.app/api?username=math23kskb&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/math23kskb?ext=heatmap)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=math23kskb&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="math23kskb's Stats"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/math23kskb?ext=heatmap" alt="Leetcode Stats"/>
+    </td>
+  </tr>
+</table>
